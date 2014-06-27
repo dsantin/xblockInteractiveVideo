@@ -1,4 +1,4 @@
-# Edx Xblock for Interactive Video Paella Player version 1.0 #
+# Edx Xblock for Paella Player with interactive video plugin version 1.0 #
 This Xblock allows the use of interactive videos created with Camtasia using Paella Player.
 You can easily integrate the XBlock into Edx and start to use the player.
 
